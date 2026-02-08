@@ -1,7 +1,6 @@
 # Aditya Portfolio
 
-This is a responsive single-page portfolio for Aditya (Software Engineer).
-
+This is a responsive single-page portfolio for Aditya 
 ## Run locally
 
 ### Option 1: Python (no dependencies)
